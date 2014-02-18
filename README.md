@@ -21,4 +21,4 @@ Pre-Requisites
 
 Run
 ===
-`python test_vistaprint.py`
+`nosetests test_vistaprint.py -v --with-holmium --holmium-browser=firefox`
